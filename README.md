@@ -1,0 +1,2 @@
+# MAGIC
+a magic trick
